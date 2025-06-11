@@ -90,7 +90,7 @@ A fully functional GUI tool for quick currency conversions—ideal for demos, le
 
 ## 📢 Credits
 
-This project is part of the **RISE Internship** initiative by [Tamizhan Skills](https://tamizhanskills.in/)  
+This project is part of the **RISE Internship** initiative by [Tamizhan Skills](https://www.tamizhanskills.com/)  
 Created by: **Akarsh Kumar**  
 Domain: **Python Programming**
 
